@@ -1,5 +1,5 @@
 ---
-title: "Efficient implementation of LMS adaptive filter-based FECG extraction on an FPGA"
+title: "Efficient Implementation of LMS Adaptive Filter-based FECG Extraction on an FPGA"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -13,11 +13,11 @@ authors:
 # Author notes (optional)
 author_notes: ""
 
-date: ""
+date: "2020-11-13"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: ""
+publishDate: "2020-11-13"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

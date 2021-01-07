@@ -11,13 +11,15 @@ authors:
 - Pyari Mohan Pradhan
 
 # Author notes (optional)
-author_notes: ""
+author_notes: 
+- Equal Contribution
+- Equal Contribution
 
-date: ""
+date: "2020-09-24"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: ""
+publishDate: "2020-09-24"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
