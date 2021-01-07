@@ -5,6 +5,7 @@ widget: accomplishments
 
 # This file represents a page section.
 headless: true
+active: true
 
 # Order that this section appears on the page.
 weight: 50
@@ -23,28 +24,36 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
-  date_end: ""
-  date_start: "2018-10-01"
+- date_end: ""
+  date_start: "2020-11-29"
   description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  organization: IIT Roorkee
+  organization_url: 
+  title: Singhal's Tech. for Society Award
   url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2018-03-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2017-12-21"
-  date_start: "2017-07-01"
+  certificate_url: 
+- date_end: ""
+  date_start: "2019-01-15"
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R: S3 and R6 Course'
+  organization: IUSSTF
+  organization_url: 
+  title: SN Bose Scholar's Program
   url: ""
+  certificate_url:
+- date_end: ""
+  date_start: "2015-05-01"
+  description: ""
+  organization: Govt. of India
+  organization_url: 
+  title: KVPY Fellowship
+  url: ""
+  certificate_url:
+- date_end: ""
+  date_start: "2014-05-01"
+  description: ""
+  organization: Govt. of India
+  organization_url: 
+  title: NTSE Scholarship
+  url: ""
+  certificate_url:
 ---

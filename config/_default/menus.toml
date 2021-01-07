@@ -9,29 +9,30 @@
   weight = 10
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "News"
+  url = "#news"
   weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Publications"
+  url = "#publications"
   weight = 30
 
 [[main]]
-  name = "Talks"
-  url = "#talks"
+  name = "Other Projects"
+  url = "#projects"
   weight = 40
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
+  name = "Accomplishments"
+  url = "#accomplishments"
   weight = 50
 
 [[main]]
-  name = "Contact"
-  url = "#contact"
+  name = "Blog"
+  url = "https://estija.github.io/blog/"
   weight = 60
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
