@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/estija/estija.github.io.git
+	branch = main
