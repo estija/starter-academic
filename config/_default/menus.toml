@@ -5,32 +5,32 @@
 
 [[main]]
   name = "Home"
-  url = "https:/estija.github.io/#about"
+  url = "/#about"
   weight = 10
 
 [[main]]
   name = "News"
-  url = "https:/estija.github.io/#news"
+  url = "/#news"
   weight = 20
 
 [[main]]
   name = "Publications"
-  url = "https:/estija.github.io/#publications"
+  url = "/#publications"
   weight = 30
 
 [[main]]
   name = "Other Projects"
-  url = "https:/estija.github.io/#projects"
+  url = "/#projects"
   weight = 40
 
 [[main]]
   name = "Blog"
-  url = "https:/estija.github.io/blog/"
+  url = "/blog/"
   weight = 50
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
 [[main]]
   name = "CV"
-  url = "https:/estija.github.io/media/BhavyaResume.pdf"
+  url = "/media/BhavyaResume.pdf"
   weight = 60
