@@ -43,7 +43,7 @@ featured: true
 # links:
 # - name: Custom Link
 #   url: http://example.org
-
+canonifyURLs: "false"
 url_pdf: 'https://digital-library.theiet.org/deliver/fulltext/htl/7/5/HTL.2020.0016.pdf;jsessionid=2cwha55ntv5lx.x-iet-live-01?itemId=/content/journals/10.1049/htl.2020.0016&mimeType=pdf&isFastTrackArticle='
 url_code: ''
 url_dataset: ''
