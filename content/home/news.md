@@ -19,10 +19,12 @@ weight = 20
 - **Nov 2020**:
   Puneesh and I received the Singhal's Tech. for Society Award by IIT Roorkee for our bachelor thesis.
 - **July 2020**:
-  I graduated from IIT Roorkee with a bachelor's in Electronics and Communication Engineering.
+  I graduated from IIT Roorkee.
 - **June 2020**:
   I joined ISI Kolkata as a Visiting Researcher.
+- **June 2020**:
+  Our [paper](https://digital-library.theiet.org/content/journals/10.1049/htl.2020.0016) got accepted in IET Healthcare Technology Letters.
 - **March 2020**:
   Our [paper](https://openaccess.thecvf.com/content_CVPRW_2020/html/w31/Deora_Structure_Preserving_Compressive_Sensing_MRI_Reconstruction_Using_Generative_Adversarial_Networks_CVPRW_2020_paper.html) got accepted in IEEE/CVF CVPR Workshops.
 - **Jan 2019**:
-  I was selected for the SN Bose Scholars' Program. 
+  I got selected for the SN Bose Scholars' Program. 
