@@ -55,7 +55,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: media/BhavyaResume.pdf
+  link: media/bhavyaresume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -66,6 +66,6 @@ highlight_name: false
 
 I am a Visiting Researcher at CVPR Unit, ISI Kolkata, advised by Prof. [Umapada Pal](https://www.isical.ac.in/~umapada/) and Prof. [Saumik Bhattacharya](https://saumikb.github.io/). My research interests lie in machine learning and its computer vision and healthcare applications. I am interested in exploring the synergy of causal reasoning and representation learning to improve the data-efficiency, generalization, robustness, and explainability of machine learning methods.
 
-Previously, I graduated from [IIT Roorkee](https://www.iitr.ac.in/) with a bachelor's in Electronics and Communication Engineering. For my joint bachelor thesis, I worked on generative adversarial network-based methods for compressive sensing MRI reconstruction, under the guidance of Prof. [Saumik Bhattacharya](https://saumikb.github.io/) and Prof. [P.M. Pradhan](https://www.iitr.ac.in/~ECE/Pyari_Mohan_Pradhan). I also interned at Northwestern University as an S.N. Bose Scholar in the summer of 2019. 
+Previously, I graduated from [IIT Roorkee](https://www.iitr.ac.in/) with a bachelor's in Electronics and Communication Engineering. For my joint bachelor thesis, I worked on generative adversarial network-based methods for compressive sensing MRI reconstruction, under the guidance of Prof. [Saumik Bhattacharya](https://saumikb.github.io/) and Prof. [PM Pradhan](https://www.iitr.ac.in/~ECE/Pyari_Mohan_Pradhan). I also interned at Northwestern University as an SN Bose Scholar in the summer of 2019. 
 
-For more details on my research, please have a look at my [CV](https://estija.github.io/media/BhavyaResume.pdf).
+For more details on my research, please have a look at my [CV](https://estija.github.io/media/bhavyaresume.pdf).
