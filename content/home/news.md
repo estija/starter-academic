@@ -15,7 +15,9 @@ title = "News"
 weight = 20
 
 +++
-
+- **Aug 2021**: Started my PhD at USC.
+- **Aug 2021**: Participated in the CMMRS pre-doctoral summer school.
+- **July 2021**: Our [paper](https://arxiv.org/abs/2108.09335) got accepted in IEEE/CVF ICCV.
 - **Nov 2020**:
   Puneesh and I received the Singhal's Tech. for Society Award by IIT Roorkee for our bachelor thesis.
 - **July 2020**:

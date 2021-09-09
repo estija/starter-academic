@@ -6,28 +6,30 @@ title: Bhavya Vasudeva
 superuser: true
 
 # Role/position/tagline
-role: Visiting Researcher
+role: Graduate Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: ISI Kolkata
-  url: https://www.isical.ac.in/
+- name: University of Southern California
+  url: https://www.cs.usc.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 # Interests to show in About widget
 interests:
-- Machine Learning
-- Computer Vision
-- ML for Health
-- Explainable AI
+- Theory of Machine Learning
+- Generalization
 - Adversarial Robustness
 - Causality
+
 
 # Education to show in About widget
 education:
   courses:
+  - course: PhD in Computer Science
+    institution: University of Southern California
+    year: 2026
   - course: BTech in Electronics and Communication Engineering
     institution: Indian Institute of Technology Roorkee
     year: 2020
@@ -39,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:bvasudeva@ec.iitr.ac.in'
+  link: 'mailto:bvasudev@usc.edu'
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/bhavya-vasudeva-93a99a14a
@@ -64,8 +66,9 @@ email: ""
 highlight_name: false
 ---
 
-I am a Visiting Researcher at CVPR Unit, ISI Kolkata, advised by Prof. [Umapada Pal](https://www.isical.ac.in/~umapada/) and Prof. [Saumik Bhattacharya](https://saumikb.github.io/). My research interests lie in machine learning and its computer vision and healthcare applications. I am interested in exploring the synergy of causal reasoning and representation learning to improve the data-efficiency, generalization, robustness, and explainability of machine learning methods.
+I am a first year CS PhD student at the University of Southern California, fortunate to be advised by Prof. [Vatsal Sharan](https://vatsalsharan.github.io/). I am broadly interested in the theory of machine learning, particularly to understand and improve the robustness and generalization of learning-based methods. 
 
-Previously, I graduated from [IIT Roorkee](https://www.iitr.ac.in/) with a bachelor's in Electronics and Communication Engineering. For my joint bachelor thesis, I worked on generative adversarial network-based methods for compressive sensing MRI reconstruction, under the guidance of Prof. [Saumik Bhattacharya](https://saumikb.github.io/) and Prof. [PM Pradhan](https://www.iitr.ac.in/~ECE/Pyari_Mohan_Pradhan). I also interned at Northwestern University as an SN Bose Scholar in the summer of 2019. 
+Previously, I was a (remote) Visiting Researcher at CVPR Unit, ISI Kolkata, advised by Prof. [Umapada Pal](https://www.isical.ac.in/~umapada/) and Prof. [Saumik Bhattacharya](https://saumikb.github.io/), working on deep metric learning. 
 
-For more details on my research, please have a look at my [CV](https://estija.github.io/media/bhavyaresume.pdf).
+Before that, I graduated from [IIT Roorkee](https://www.iitr.ac.in/) with a bachelor's in Electronics and Communication Engineering. For my joint bachelor thesis, I worked on generative adversarial network-based methods for compressive sensing MRI reconstruction, under the guidance of Prof. [Saumik Bhattacharya](https://saumikb.github.io/) and Prof. [PM Pradhan](https://www.iitr.ac.in/~ECE/Pyari_Mohan_Pradhan). I also interned at Northwestern University as an SN Bose Scholar in the summer of 2019. 
+
