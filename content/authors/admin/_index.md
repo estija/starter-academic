@@ -18,10 +18,9 @@ bio:
 
 # Interests to show in About widget
 interests:
-- Theory of Machine Learning
-- Generalization
-- Adversarial Robustness
-- Causality
+- Deep Learning Theory
+- Optimization
+- Robustness to Distributional Shifts
 
 
 # Education to show in About widget
@@ -66,7 +65,7 @@ email: ""
 highlight_name: false
 ---
 
-I am a first year CS PhD student at the University of Southern California, fortunate to be advised by Prof. [Vatsal Sharan](https://vatsalsharan.github.io/). I am broadly interested in the theory of machine learning, particularly to understand and improve the robustness and generalization of learning-based methods. 
+I am a CS PhD student at the University of Southern California, advised by Prof. [Vatsal Sharan](https://vatsalsharan.github.io/). I am broadly interested in the theoretical aspects of deep learning, particularly in understanding inductive biases of various ML models, their optimization and generalization dynamics, as well as improving robustness to distributional shifts.
 
 Previously, I was a (remote) Visiting Researcher at CVPR Unit, ISI Kolkata, advised by Prof. [Umapada Pal](https://www.isical.ac.in/~umapada/) and Prof. [Saumik Bhattacharya](https://saumikb.github.io/), working on deep metric learning. 
 

@@ -25,11 +25,11 @@ publishDate: "2020-09-24"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: arXiv Preprint
-publication_short: 
+publication: IEEE/CVF Winter Conference on Applications of Computer Vision
+publication_short: WACV 2022
 
 abstract: Compressive sensing (CS) is widely used to reduce the acquisition time of magnetic resonance imaging (MRI). Although state-of-the-art deep learning based methods have been able to obtain fast, high-quality reconstruction of CS-MR images, their main drawback is that they treat complex-valued MRI data as real-valued entities. Most methods either extract the magnitude from the complex-valued entities or concatenate them as two real-valued channels. In both the cases, the phase content, which links the real and imaginary parts of the complex-valued entities, is discarded. In order to address the fundamental problem of real-valued deep networks, i.e. their inability to process complex-valued data, we propose a novel framework based on a complex-valued generative adversarial network (Co-VeGAN). Our model can process complex-valued input, which enables it to perform high-quality reconstruction of the CS-MR images. Further, considering that phase is a crucial component of complex-valued entities, we propose a novel complex-valued activation function, which is sensitive to the phase of the input. Extensive evaluation of the proposed approach on different datasets using various sampling masks demonstrates that the proposed model significantly outperforms the existing CS-MRI reconstruction techniques in terms of peak signal-to-noise ratio as well as structural similarity index. Further, it uses significantly fewer trainable parameters to do so, as compared to the real-valued deep learning based methods. 
 
